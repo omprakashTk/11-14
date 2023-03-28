@@ -20,19 +20,19 @@ jobs:
 
       - name: Checkout code
 
-        uses: omprakashTk/checkout-v2
+        uses: omprakashTk/checkout@v2
 
       - name: Install dependencies
 
         run: npm install
 
-      - name: Checkout specific version of checkout-v3
+      - name: Checkout specific version of checkout@v2
 
         uses: actions/checkout@v2
 
         with:
 
-          repository: omprakashTk/checkout-v3
+          repository: omprakashTk/checkout@v2
 
           ref: v3.3.4
 
