@@ -19,7 +19,7 @@ jobs:
 
       - name: Checkout code
 
-        uses: omprakashTk/checkout-v3@v3.0.0
+        uses: omprakashTk/checkout-v3@v3.3.4
 
       - name: Install dependencies
 
