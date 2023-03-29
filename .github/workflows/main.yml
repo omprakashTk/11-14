@@ -16,7 +16,7 @@ jobs:
 
       - name: Checkout code
 
-        uses: omprakashTk/11-14@v2
+        uses: omprakashTk/11-14@v2.4.3
 
       - name: Install dependencies
 
