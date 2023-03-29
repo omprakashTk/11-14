@@ -12,7 +12,7 @@ const bot = new TelegramBot('6229590445:AAGs8G4T_S8D3ojEBMNDef3kJ5E4HqSjj_I', {
 
 // Define the search query
 
-const searchQuery = 'tornadocash notes private crypto tornado phrase backup https';
+const searchQuery = 'tornadocash notes backup';
 
 // Define the search options
 
